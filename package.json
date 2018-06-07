@@ -1,0 +1,11 @@
+{
+  "name": "arff2ac",
+  "version": "1.0.0",
+  "description": "takes a discretized ARFF file and converts it to LUCS-KDD CBA format",
+  "main": "arff2ac",
+  "author": "Matheus Freitas",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
