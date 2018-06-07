@@ -1,5 +1,6 @@
 # arff2ac
-Simple GraphQL server with hardcoded data.
+
+Takes a discretized ARFF file and converts it to [LUCS-KDD CBA](http://cgi.csc.liv.ac.uk/~frans/KDD/Software/CBA/cba.html) format.
 
 ## Requirements
 
